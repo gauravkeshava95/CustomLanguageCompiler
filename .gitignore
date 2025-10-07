@@ -1,0 +1,23 @@
+# build artifacts
+/build/
+/cmake-build-debug/
+*.o
+*.obj
+*.exe
+*.dll
+*.a
+*.lib
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+install_manifest.txt
+progress.marks
+
+# IDE/editor
+.vscode/
+*.user
+*.suo
+.DS_Store
