@@ -1,4 +1,4 @@
-CustomLanguageCompiler
+CustomLanguageCompiler - 
 A self-developed mini compiler and interpreter built from scratch in C++, implementing all major stages of a modern programming language — lexical analysis, parsing, semantic analysis, and interpretation.
 This project demonstrates strong knowledge of compiler design, data structures, and object-oriented programming.
 
